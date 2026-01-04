@@ -1,0 +1,8 @@
+streamlit
+scikit-learn
+joblib
+requests
+newspaper3k==0.2.8
+lxml
+lxml_html_clean
+beautifulsoup4
